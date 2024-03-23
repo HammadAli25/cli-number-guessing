@@ -1,2 +1,2 @@
-# cli-number-guessing
-this is cli based number
+# cli-number-guessing game
+This is cli based number
